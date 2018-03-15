@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fr.unistra.fizzbuzz.FizzBuzzJUnitTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-03-15T17:42:34" hostname="uds-500446.ad.unistra.fr.u-strasbg.fr" time="0.0">
+  <properties/>
+  <testcase name="returnsNumberForInputNotDivisibleByThreeAndFive" classname="fr.unistra.fizzbuzz.FizzBuzzJUnitTest" time="0.0"/>
+  <testcase name="returnNumberWhichReturnBuzz" classname="fr.unistra.fizzbuzz.FizzBuzzJUnitTest" time="0.0"/>
+  <testcase name="returnNumberWhichReturnFizzBuzz" classname="fr.unistra.fizzbuzz.FizzBuzzJUnitTest" time="0.0"/>
+  <testcase name="returnNumberWhichReturnFizz" classname="fr.unistra.fizzbuzz.FizzBuzzJUnitTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
